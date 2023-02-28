@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">cs193a_hw3_nfakih</string>
+    <string-array name="stories">
+        <item>clothing</item>
+        <item>dance</item>
+        <item>marty</item>
+        <item>mymadlib</item>
+        <item>tarzan</item>
+        <item>university</item>
+        <item>wannabe</item>
+    </string-array>
+    <string name="title_activity_stats">StatsActivity</string>
+</resources>
