@@ -1,4 +1,4 @@
-# CS 193A: Android Application Development[https://web.stanford.edu/class/cs193a/videos.shtml]
+# [CS 193A: Android Application Development](https://web.stanford.edu/class/cs193a/videos.shtml)
 Winter 2019
 how to develop applications for the Android mobile platform using Java
 
